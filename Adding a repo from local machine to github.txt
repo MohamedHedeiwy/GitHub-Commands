@@ -1,0 +1,10 @@
+1# git init - to turn into repo
+2# git remote add orgin (SSH)
+
+3# Have to add and commit something first before moving to next step
+
+4# git push -u orgin master
+
+
+
+git remote -v (to check any git repo that has been connected to the repo im trying to add)

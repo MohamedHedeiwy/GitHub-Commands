@@ -1,0 +1,1 @@
+ls ---- Displays everything in the file

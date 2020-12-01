@@ -1,0 +1,2 @@
+first check the remote that are already connected: git remote -v
+the remove by running this command: git remote remove orgin --> (name of remote)

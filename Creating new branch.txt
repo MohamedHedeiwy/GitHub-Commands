@@ -1,0 +1,11 @@
+git checkout -b name_of_branch (to create a branch)
+git checkout name_of_branch (to switch between branches || master (for main branch))
+git branch (to check current working branche)
+git diff name_of_brnach (to view the differences)
+
+git push -u (Destenation example: https://github.com/MohamedHedeiwy/demo-repo3) test --- this is to push a local branch to github
+
+
+after merging from github, if you want to see the changes on your local machine run the below line
+git pull   -- to get the changes 
+

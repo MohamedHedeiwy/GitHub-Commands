@@ -1,0 +1,13 @@
+git reset --- unadd
+git reset HEAD~1 --- To go back one commit
+
+To go back to a certain commit follow the following
+#1 git log
+#2 get the hash of the commit you want to reset too
+#3 git reset (hash)
+This will unstage anything that happened after that hash, but it wont remove it from you screen
+
+
+To permanently go back in time 
+git reset --hard (hash)
+this will completly remove the changes instead of unstaging them only
